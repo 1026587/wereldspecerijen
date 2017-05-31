@@ -1,0 +1,57 @@
+html{
+   height:  120%;
+    overflow-x: hidden;
+}
+#kaart{
+    margin-left: 20%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+.text-center{
+    font-family: 'Barrio', cursive;
+    cursor: default;
+    transition: all 0.35s ease-in-out;
+}
+.text-center:hover{
+    font-family: 'Barrio', cursive;
+    cursor: default;
+    -webkit-transform: scale(1.2);
+
+}
+#afrika{
+    margin-left: 22.3%;
+    margin-top: -31.5%;
+}
+
+.afrika{
+    height: 250px;
+    width: 200px;
+
+    position: absolute;
+    margin-left: 750px;
+    top: 550px;
+}
+.azie{
+    height: 355px;
+    width: 400px;
+
+    position: absolute;
+    margin-left: 950px;
+    top: 350px;
+}
+.europa{
+    height: 200px;
+    width: 140px;
+
+    position: absolute;
+    margin-left: 750px;
+    top: 350px;
+}
+.zuid-amerika{
+    height: 250px;
+    width: 150px;
+
+    position: absolute;
+    margin-left: 560px;
+    top: 620px;
+}
